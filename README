@@ -1,19 +1,18 @@
 DeepLink!, an extension of
 
-            _/    _/_/    _/_/_/_/_/                              _/
-              _/    _/      _/      _/_/    _/    _/    _/_/_/  _/_/_/
-         _/  _/  _/_/      _/    _/    _/  _/    _/  _/        _/    _/
-        _/  _/    _/      _/    _/    _/  _/    _/  _/        _/    _/
-       _/    _/_/  _/    _/      _/_/      _/_/_/    _/_/_/  _/    _/
-      _/
-   _/
-
-Created by <mailto:the.trystero@gmail.com>
-
-   Special thanks to the jQTouch Project,
-   David Kaneda <http://www.davidkaneda.com>,
-   and Jonathan Stark <http://jonathanstark.com/>
-
-   $Revision: 1.1 $
-   $Date: 2011/04/28 17:54:06 $
-   $LastChangedBy: thetrystero $  
+              _/    _/_/    _/_/_/_/_/                              _/
+               _/    _/      _/      _/_/    _/    _/    _/_/_/  _/_/_/
+          _/  _/  _/_/      _/    _/    _/  _/    _/  _/        _/    _/
+         _/  _/    _/      _/    _/    _/  _/    _/  _/        _/    _/
+        _/    _/_/  _/    _/      _/_/      _/_/_/    _/_/_/  _/    _/
+       _/
+    _/
+    
+  (c) James Vivian 2010 <http://www.github.com/jvivs>
+  
+    Special thanks to the jQTouch Project,
+    David Kaneda <http://www.davidkaneda.com>,
+    and Jonathan Stark <http://jonathanstark.com/>
+    
+    $Revision: 1.2 $
+    $LastChangedBy: @jvivs $
