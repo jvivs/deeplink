@@ -1,3 +1,25 @@
+/*
+
+  DeepLink!, an extension of
+
+              _/    _/_/    _/_/_/_/_/                              _/
+               _/    _/      _/      _/_/    _/    _/    _/_/_/  _/_/_/
+          _/  _/  _/_/      _/    _/    _/  _/    _/  _/        _/    _/
+         _/  _/    _/      _/    _/    _/  _/    _/  _/        _/    _/
+        _/    _/_/  _/    _/      _/_/      _/_/_/    _/_/_/  _/    _/
+       _/
+    _/
+
+  (c) James Vivian 2010 <http://www.github.com/jvivs>
+
+    Special thanks to the jQTouch Project,
+    David Kaneda <http://www.davidkaneda.com>,
+    and Jonathan Stark <http://jonathanstark.com/>
+
+    $Revision: 1.2 $
+    $LastChangedBy: @jvivs $
+
+*/
 (function($) {
   if ($.jQTouch) {
     var DeepLink = function(jQTouch) {
